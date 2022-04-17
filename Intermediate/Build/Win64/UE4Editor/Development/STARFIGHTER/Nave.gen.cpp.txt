@@ -1,0 +1,5 @@
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\Definitions.STARFIGHTER.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Source\STARFIGHTER/Nave.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Inc\STARFIGHTER\Nave.generated.h

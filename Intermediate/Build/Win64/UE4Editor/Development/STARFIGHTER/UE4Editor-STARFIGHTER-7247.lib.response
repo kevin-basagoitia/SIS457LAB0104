@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-STARFIGHTER-7247.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\STARFIGHTEREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\Nave.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\STARFIGHTER.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\STARFIGHTERGameModeBase.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\Nave.gen.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\STARFIGHTER.init.gen.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\STARFIGHTERGameModeBase.gen.cpp.obj"
+"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\Default.rc2.res"
+/OUT:"C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\UE4Editor-STARFIGHTER-7247.lib"

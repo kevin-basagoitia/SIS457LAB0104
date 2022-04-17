@@ -1,0 +1,16 @@
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Development\STARFIGHTER\Definitions.STARFIGHTER.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Source\STARFIGHTER\NavePlayerController.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Inc\STARFIGHTER\NavePlayerController.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Source\STARFIGHTER\Nave.h
+C:\Users\PLANET-PC\Desktop\STARFIGHTER\Intermediate\Build\Win64\UE4Editor\Inc\STARFIGHTER\Nave.generated.h
